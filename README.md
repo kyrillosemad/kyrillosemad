@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kyrillos Emad
 #### I am an Flutter developer
 
-![I am an Flutter developer](https://avatars.githubusercontent.com/u/125705173?v=4)
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif" alt ="img"  width ="400px"/>
 
 
 - 👋 Hi, I’m @kyrillosemad
